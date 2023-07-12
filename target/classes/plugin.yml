@@ -1,5 +1,5 @@
 name: deathback
-version: '1.2-SNAPSHOT'
+version: '1.3-SNAPSHOT'
 main: org.hotal.deathback.Deathback
 api-version: '1.19'
 commands:
@@ -7,8 +7,7 @@ commands:
     description: "死んだ所に戻ることができる"
     usage: /dback
 permissions:
-  dback:
-    teleport: dback.teleport
+  dback.teleport:
     description: "死んだ所に戻ることができる"
     default: true
 

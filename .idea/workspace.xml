@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2cd12dc-3745-42cf-9729-444b619e9924" name="変更" comment="first commit" />
+    <list default="true" id="c2cd12dc-3745-42cf-9729-444b619e9924" name="変更" comment="first commit">
+      <change beforePath="B:/deathback/.idea/workspace.xml" beforeDir="false" afterPath="B:/deathback/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,19 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="B:/deathback" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0939c909-05f0-44ed-8251-38e04778c69d" />
+        <option name="url" value="https://github.com/minamikana-git/deathback" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SPm1l8snhkPhHuEBAZTEC88zeH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689163411699</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1689163650577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689163650577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
