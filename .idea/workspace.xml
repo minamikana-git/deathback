@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2cd12dc-3745-42cf-9729-444b619e9924" name="変更" comment="">
-      <change beforePath="B:/deathback/src/main/resources/plugin.yml" beforeDir="false" afterPath="B:/deathback/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="c2cd12dc-3745-42cf-9729-444b619e9924" name="変更" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="minamikana-git &lt;yuiwiz928_sub@yahoo.co.jp&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="B:/deathback" />
   </component>
   <component name="ProjectId" id="2SPm1l8snhkPhHuEBAZTEC88zeH" />
@@ -23,7 +26,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "B:/deathback"
   }
 }]]></component>
@@ -63,6 +68,28 @@
       <option name="presentableId" value="Default" />
       <updated>1689056379351</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1689163236760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689163236760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1689163371248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689163371248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1689163411699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689163411699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
